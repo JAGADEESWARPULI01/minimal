@@ -1,6 +1,6 @@
 title: Jagadeeswar Puli
-logo: /assets/img/WhatsApp Image 2023-02-01 at 7.08.45 PM.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+logo: /assets/img/logo.png
+description: Software Developer
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
